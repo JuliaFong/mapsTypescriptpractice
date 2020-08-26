@@ -14,9 +14,9 @@
 * Google Maps API
 
 # API Reference
-* This project was built using [Google Maps API] (https://developers.google.com/maps/documentation/javascript/get-api-key)
+* This project was built using [Google Maps API](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 # Credit
-This site was built using [Typescript: The Complete Developer's Guide] (https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+This site was built using [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
 
 ![Screenshot](Maps.png)
