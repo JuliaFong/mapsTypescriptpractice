@@ -9,7 +9,6 @@
 
 # Technologies Used 
 * TypeScript
-* CSS3
 * HTML5
 * Google Maps API
 
